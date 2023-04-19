@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="card">
       <div className="image">
-        <img src="src/assets/image-qr-code.png" />
+        <img src="image-qr-code.png" />
       </div>
       <div className="text">
         <h1>Improve your front-end skills by building projects</h1>
